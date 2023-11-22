@@ -24,12 +24,12 @@ I'm a `Java` and `Kotlin` developer with expertise in building robust and highly
  
  ### Languages✍🏼
 
-<img src="https://img.icons8.com/color/35/000000/java-coffee-cup-logo--v2.png"/> <img src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/> <img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/>  <img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/> <img src="https://img.icons8.com/color/35/000000/css3.png"/> 
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/> <img src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
 
 
 ### Frameworks :anchor:
 
-<img src="https://img.icons8.com/officel/16/spring-logo.png" alt="spring-logo"/> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png" alt="external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo"/> 
+<img src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png" alt="external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo"/>
 
 
 ### DevOps & Cloud Tools⚒️
