@@ -68,7 +68,7 @@ I'm a `Java` and `Kotlin` developer with expertise in building robust and highly
    <br/>
 
 <p align="left">
-<a href="https://www.linkedin.com/pulse/builder-design-pattern-david-muchai-rotjf%3FtrackingId=R%252B16oxK6TgWrf2zhxBN2nA%253D%253D/?trackingId=R%2B16oxK6TgWrf2zhxBN2nA%3D%3D" title="Builder Design Pattern"><img src="https://github.com/NdiranguMuchai/NdiranguMuchai/assets/47880944/4facc13c-fc87-4b97-86db-5d523f068823" alt="Builder Design Pattern" width="250px" align="left" /></a>
+<a href="https://www.linkedin.com/pulse/builder-design-pattern-david-muchai-rotjf%3FtrackingId=R%252B16oxK6TgWrf2zhxBN2nA%253D%253D/?trackingId=R%2B16oxK6TgWrf2zhxBN2nA%3D%3D" title="Builder Design Pattern"><img src="https://github.com/NdiranguMuchai/NdiranguMuchai/assets/47880944/4facc13c-fc87-4b97-86db-5d523f068823" alt="Builder Design Pattern" align="left" /></a>
 <a href="https://www.linkedin.com/pulse/builder-design-pattern-david-muchai-rotjf%3FtrackingId=R%252B16oxK6TgWrf2zhxBN2nA%253D%253D/?trackingId=R%2B16oxK6TgWrf2zhxBN2nA%3D%3D" title="Builder Design Pattern"><strong>Builder Design Pattern</strong></a>
 <br/> 'Builder' is a creational design pattern that handles creating instances of complex objects. Once you exceed 4 or 5 parameters... 
 </p>
