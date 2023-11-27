@@ -60,6 +60,14 @@ I'm a `Java` and `Kotlin` developer with expertise in building robust and highly
  
 
 <p align="left">
+<a href="https://www.linkedin.com/pulse/design-patterns-software-development-david-muchai-4cydf%3FtrackingId=2htDZqZQQ1uHXESRvSSEOA%253D%253D/?trackingId=2htDZqZQQ1uHXESRvSSEOA%3D%3D" title="Design Patterns For Software Development"><img src="https://github.com/NdiranguMuchai/NdiranguMuchai/assets/47880944/c8eeac96-afd7-4762-bcea-86386a4894f1" alt="Design Patterns For Software Development" width="250px" align="left" /></a>
+<a href="https://www.linkedin.com/pulse/design-patterns-software-development-david-muchai-4cydf%3FtrackingId=2htDZqZQQ1uHXESRvSSEOA%253D%253D/?trackingId=2htDZqZQQ1uHXESRvSSEOA%3D%3D" title="Design Patterns For Software Development"><strong>Design Patterns For Software Development</strong></a>
+<br/> Design patterns are reusable and proven solutions to common problems that arise during the design and development of...
+ </p>
+  <br/>
+   <br/>
+
+<p align="left">
 <a href="https://www.linkedin.com/pulse/builder-design-pattern-david-muchai-rotjf%3FtrackingId=R%252B16oxK6TgWrf2zhxBN2nA%253D%253D/?trackingId=R%2B16oxK6TgWrf2zhxBN2nA%3D%3D" title="Builder Design Pattern"><img src="https://github.com/NdiranguMuchai/NdiranguMuchai/assets/47880944/4facc13c-fc87-4b97-86db-5d523f068823" alt="Builder Design Pattern" width="250px" align="left" /></a>
 <a href="https://www.linkedin.com/pulse/builder-design-pattern-david-muchai-rotjf%3FtrackingId=R%252B16oxK6TgWrf2zhxBN2nA%253D%253D/?trackingId=R%2B16oxK6TgWrf2zhxBN2nA%3D%3D" title="Builder Design Pattern"><strong>Builder Design Pattern</strong></a>
 <br/> 'Builder' is a creational design pattern that handles creating instances of complex objects. Once you exceed 4 or 5 parameters... 
@@ -67,12 +75,5 @@ I'm a `Java` and `Kotlin` developer with expertise in building robust and highly
  <br/>
   <br/>
 
-<p align="left">
-<a href="https://www.linkedin.com/pulse/design-patterns-software-development-david-muchai-4cydf%3FtrackingId=2htDZqZQQ1uHXESRvSSEOA%253D%253D/?trackingId=2htDZqZQQ1uHXESRvSSEOA%3D%3D" title="Design Patterns For Software Development"><img src="https://github.com/NdiranguMuchai/NdiranguMuchai/assets/47880944/c8eeac96-afd7-4762-bcea-86386a4894f1" alt="Design Patterns For Software Development" width="250px" align="left" /></a>
-<a href="https://www.linkedin.com/pulse/design-patterns-software-development-david-muchai-4cydf%3FtrackingId=2htDZqZQQ1uHXESRvSSEOA%253D%253D/?trackingId=2htDZqZQQ1uHXESRvSSEOA%3D%3D" title="Design Patterns For Software Development"><strong>Design Patterns For Software Development</strong></a>
-<br/> Design patterns are reusable and proven solutions to common problems that arise during the design and development of...
- </p>
-  <br/>
-   <br/>
  
 <!-- HASHNODE_BLOG:END -->
