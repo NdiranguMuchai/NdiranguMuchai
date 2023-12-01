@@ -58,14 +58,6 @@ I'm a `Java` and `Kotlin` developer with expertise in building robust and highly
  <br/>
  <br/>
 
-<p align="left">
-<a href="https://www.linkedin.com/pulse/design-patterns-software-development-david-muchai-4cydf%3FtrackingId=2htDZqZQQ1uHXESRvSSEOA%253D%253D/?trackingId=2htDZqZQQ1uHXESRvSSEOA%3D%3D" title="Design Patterns For Software Development"><img src="https://github.com/NdiranguMuchai/NdiranguMuchai/assets/47880944/c8eeac96-afd7-4762-bcea-86386a4894f1" alt="Design Patterns For Software Development" width="250px" align="left" /></a>
-<a href="https://www.linkedin.com/pulse/design-patterns-software-development-david-muchai-4cydf%3FtrackingId=2htDZqZQQ1uHXESRvSSEOA%253D%253D/?trackingId=2htDZqZQQ1uHXESRvSSEOA%3D%3D" title="Design Patterns For Software Development"><strong>Design Patterns For Software Development</strong></a>
-<br/> Design patterns are reusable and proven solutions to common problems that arise during the design and development of...
-</p>
- <br/>
- <br/>
-
 
 <p align="left">
 <a href="https://www.linkedin.com/pulse/decorator-design-pattern-david-muchai-nyiaf/" title="Decorator Design Pattern"><img src="https://github.com/NdiranguMuchai/NdiranguMuchai/assets/47880944/fd6ba926-7c99-479a-8de5-fddb6c75e60e" alt="Decorator Design Pattern" width="250px" align="left" /></a>
@@ -75,4 +67,11 @@ I'm a `Java` and `Kotlin` developer with expertise in building robust and highly
  <br/> 
  <br/>
  
+<p align="left">
+<a href="https://www.linkedin.com/pulse/design-patterns-software-development-david-muchai-4cydf%3FtrackingId=2htDZqZQQ1uHXESRvSSEOA%253D%253D/?trackingId=2htDZqZQQ1uHXESRvSSEOA%3D%3D" title="Design Patterns For Software Development"><img src="https://github.com/NdiranguMuchai/NdiranguMuchai/assets/47880944/c8eeac96-afd7-4762-bcea-86386a4894f1" alt="Design Patterns For Software Development" width="250px" align="left" /></a>
+<a href="https://www.linkedin.com/pulse/design-patterns-software-development-david-muchai-4cydf%3FtrackingId=2htDZqZQQ1uHXESRvSSEOA%253D%253D/?trackingId=2htDZqZQQ1uHXESRvSSEOA%3D%3D" title="Design Patterns For Software Development"><strong>Design Patterns For Software Development</strong></a>
+<br/> Design patterns are reusable and proven solutions to common problems that arise during the design and development of...
+</p>
+ <br/>
+ <br/>
 <!-- HASHNODE_BLOG:END -->
