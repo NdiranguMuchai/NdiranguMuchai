@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## :rocket: About me
 
-I'm a `Java` and `Kotlin` developer with expertise in building robust and highly scalable microservices. 
+I'm a `Java` and `Kotlin` developer with expertise in building robust and highly scalable distributed systems. 
 
  
  ## Technologies :bulb:
