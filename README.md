@@ -66,7 +66,10 @@ I'm a `Java` and `Kotlin` developer with expertise in building robust and highly
 </p>
  <br/> 
  <br/>
- 
+
+
+<!--
+
 <p align="left">
 <a href="https://www.linkedin.com/pulse/design-patterns-software-development-david-muchai-4cydf%3FtrackingId=2htDZqZQQ1uHXESRvSSEOA%253D%253D/?trackingId=2htDZqZQQ1uHXESRvSSEOA%3D%3D" title="Design Patterns For Software Development"><img src="https://github.com/NdiranguMuchai/NdiranguMuchai/assets/47880944/c8eeac96-afd7-4762-bcea-86386a4894f1" alt="Design Patterns For Software Development" width="250px" align="left" /></a>
 <a href="https://www.linkedin.com/pulse/design-patterns-software-development-david-muchai-4cydf%3FtrackingId=2htDZqZQQ1uHXESRvSSEOA%253D%253D/?trackingId=2htDZqZQQ1uHXESRvSSEOA%3D%3D" title="Design Patterns For Software Development"><strong>Design Patterns For Software Development</strong></a>
@@ -74,4 +77,8 @@ I'm a `Java` and `Kotlin` developer with expertise in building robust and highly
 </p>
  <br/>
  <br/>
+
+-->
+ 
+
 <!-- HASHNODE_BLOG:END -->
